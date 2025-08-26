@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "sellrent":1,
+    "name": "Birla House",
+    "price": 1200000,
+    "type": "House",
+    "image":"house_1.jpg"
+  },
+  {
+    "id": 2,
+    "sellrent":1,
+    "name": "Sunshine Apartments",
+    "price": 850000,
+    "type": "Apartment",
+    "image":"house_2.jpg"
+
+  },
+  {
+    "id": 3,
+    "sellrent":1,
+    "name": "Green Villa",
+    "price": 2500000,
+    "type": "Villa",
+    "image":"house_3.jpg"
+  },
+  {
+    "id": 4,
+    "sellrent":2,
+    "name": "Skyline Towers",
+    "price": 1800000,
+    "type": "Flat",
+    "image":"house_4.png"
+  },
+  {
+    "id": 5,
+    "sellrent":1,
+    "name": "Lakeview Cottage",
+    "price": 950000,
+    "type": "Cottage",
+    "image":"house_5.png"
+  },
+  {
+    "id": 6,
+    "sellrent":2,
+    "name": "Royal Residency",
+    "price": 3000000,
+    "type": "Penthouse"
+  }
+]
